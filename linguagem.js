@@ -27,4 +27,5 @@ const camelCasedVersion = lowercaseWord.slice(0, 5) + lowercaseWord[5].toUpperCa
 console.log("Camel cased version:");
 console.log(camelCasedVersion);
 
-/* teste de atualização*/
+/* teste asdadas*/
+console.log();
